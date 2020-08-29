@@ -14,4 +14,4 @@
 * Python
 * Jupyter Notebook
 
-### ⭐ Give it a Star if you liked it
+### ⭐ Don't forget to Click on Star at the very top right.
